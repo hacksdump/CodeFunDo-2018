@@ -20,6 +20,7 @@ The one instrument that lies closest to a human, which happens to be the mobile 
 
 * An **SMS bot** will be much helpful to get quick answers on queries regarding supplies and support from authorities.
 * In the case of broken network connectivity, local **P2P network** using WiFi can at least help to establish communication among the local people so that people can find the lost ones.
+* The P2P intranet will be used by the people (affected by a particular class of disasters) to reach out to other subnets to ask for resources, food, aid and to enquire for missing people. The app will also keep track of what resources people are willing to offer to others in need so immediate help is provided without the need for the authorities to be present on site.
 * Since **GPS** requires no internet, the location data can be encoded in a SMS and sent to the rescue authorities for recieving help sooner.
 * Offline maps will display the location of relief camps so that people can reach safe areas easily.
 
