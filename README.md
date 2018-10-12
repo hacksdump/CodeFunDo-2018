@@ -25,6 +25,7 @@ The one instrument that lies closest to a human, which happens to be the mobile 
 * Offline maps will display the location of relief camps so that people can reach safe areas easily.
 
 #### Implementation
+
 * We plan on incorporating Microsoft azure machine learning service for analysing the data we receive from the sensors.
 * Raspberry Pi and sensor modules like accelerometer will provide with the data required for the service.
 * Microsoft mobile services can be used to create the SMS bot.
